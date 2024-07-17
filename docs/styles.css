@@ -9,7 +9,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/caspar-camille-rubin-7SDoly3FV_0-unsplash.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("caspar-camille-rubin-7SDoly3FV_0-unsplash.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -58,4 +58,3 @@ body, html {
   text-align: left;
   box-sizing: border-box;
 }
-
